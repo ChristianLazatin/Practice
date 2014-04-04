@@ -1,6 +1,7 @@
-A	a black man arrived!
+A	a black man arrived!	naell	me magic johnson
+	rival is larry bird
 B
-B
+fetch lala
 B
 C
 
